@@ -5,7 +5,7 @@ const Banner = () => {
   return(
     <div class="parallax">
     <div class="parallax__layer parallax__layer__0">
-        <img src="https://github.com/samdbeckham/blog/blob/master/dev/_assets/images/articles/firewatch/layer_0.png?raw=true" />
+        <img src="https://github.com/brandonstiles1/Tesla-Landing/blob/master/shot_1.png" />
     </div>
     <div class="parallax__layer parallax__layer__1">
         <img src="https://github.com/samdbeckham/blog/blob/master/dev/_assets/images/articles/firewatch/layer_1.png?raw=true" />
